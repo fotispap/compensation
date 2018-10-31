@@ -12,10 +12,10 @@
 
 ## Contributions in progress
 
-> [Issue 1055] Export/import feature for onion address #1055
+>  [Issue 1055: Export/import feature for onion address #1055](https://github.com/bisq-network/bisq/issues/1055)
 
 
 
 ## Roles performed
 
-NONE
+None
